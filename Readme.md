@@ -9,6 +9,9 @@ It has been tried on a library of about 3000. Please note that the script takes 
 
 ![Ugly ass library pre-script](https://github.com/as-troska/AutoSteamGrid/assets/90447315/da761fca-60bb-46d3-b890-905e2d465989)
 
+![Beautiful library post-script. No restart of Steam required](https://github.com/as-troska/AutoSteamGrid/assets/90447315/8fdb787c-e1b1-4bd2-96ca-d58ed6f72f2f)
+
+
 
 Requirements
 ------------
