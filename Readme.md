@@ -16,7 +16,7 @@ Requirements
 - SteamGrid API key  
 - Steam API Key  
 - Your Steam id
-- doten library. Install with pip install python-dotenv
+- dotenv library. Install with pip install python-dotenv
 
 Usage
 -----
