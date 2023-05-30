@@ -1,4 +1,4 @@
-AutosteamGrid
+AutoSteamGrid
 =============
 
 What is it?
@@ -22,11 +22,11 @@ To use this script, you need to suply three variables:
 - Your Steam ID   
 
 You may put these variables in an .env-file like this:
-    ```
+
     STEAMID=  
     STEAMAPIKEY=""  
     STEAMGRIDAPIKEY=""  
-    ```
+
 
 If an .env is not found, you will have to enter when prompted.
 
