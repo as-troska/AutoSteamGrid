@@ -4,7 +4,7 @@ AutoSteamGrid
 What is it?
 -----------
 AutoSteamGrid is a short Python script automating the process of setting posters to games that only have banners in your Steam library grid-view.
-It has been tried on a library of about 3000. Please note that the script takes quite some time to finish when dealing with libraries of these sizes. Your results should be visible in your Steam library as the script is running.
+It has been tried on a library of about 3000, and ran flawlessly - finding posters to approx 98% of missing games. Please note that the script takes quite some time to finish when dealing with libraries of these sizes. Your results should be visible in your Steam library as the script is running.
 
 Screenshots
 -----------
