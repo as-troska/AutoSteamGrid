@@ -5,7 +5,7 @@ What is it?
 -----------
 
 AutoSteamGrid is a short Python script automating the process of setting posters to games that only have banners in your Steam library grid-view.
-It has been tried on a library of 
+It has been tried on a library of about 3000. Please note that takes quite some time to finish. Your results should be visible in your Steam library as the script is running.
 
 Requirements
 ------------
@@ -22,9 +22,11 @@ To use this script, you need to suply three variables:
 - Your Steam ID 
 
 You may put these variables in an .env-file like this:
+    ```
     STEAMID=
     STEAMAPIKEY=""
     STEAMGRIDAPIKEY=""
+    ```
 
 If an .env is not found, you will have to enter when prompted.
 
