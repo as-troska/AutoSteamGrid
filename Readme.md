@@ -12,7 +12,8 @@ Requirements
 - Windows version of Steam  
 - SteamGrid API key  
 - Steam API Key  
-- Your Steam id  
+- Your Steam id
+- doten library. Install with pip install python-dotenv
 
 Usage
 -----
@@ -23,9 +24,9 @@ To use this script, you need to suply three variables:
 
 You may put these variables in an .env-file like this:
 
-    STEAMID=  
-    STEAMAPIKEY=""  
-    STEAMGRIDAPIKEY=""  
+    STEAMID=      
+    STEAMAPIKEY=""    
+    STEAMGRIDAPIKEY=""    
 
 
 If an .env is not found, you will have to enter when prompted.
