@@ -9,23 +9,23 @@ It has been tried on a library of about 3000. Please note that takes quite some 
 
 Requirements
 ------------
--Windows version of Steam
--SteamGrid API key https://www.steamgriddb.com/profile/preferences
--Steam API Key https://steamcommunity.com/dev/apikey
--Your Steam id
+-Windows version of Steam  
+-SteamGrid API key  
+-Steam API Key  
+-Your Steam id  
 
 Usage
 -----
-To use this script, you need to suply three variables: 
-- Your Steam api key. If you don't have one, get it at: 
-- Your Steam api key. If you don't have one, get it at: 
-- Your Steam ID 
+To use this script, you need to suply three variables:  
+- Your Steam api key. If you don't have one, get it at: https://www.steamgriddb.com/profile/preferences  
+- Your Steam api key. If you don't have one, get it at: https://steamcommunity.com/dev/apikey  
+- Your Steam ID   
 
 You may put these variables in an .env-file like this:
     ```
-    STEAMID=
-    STEAMAPIKEY=""
-    STEAMGRIDAPIKEY=""
+    STEAMID=  
+    STEAMAPIKEY=""  
+    STEAMGRIDAPIKEY=""  
     ```
 
 If an .env is not found, you will have to enter when prompted.
