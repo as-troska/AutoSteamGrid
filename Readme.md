@@ -9,10 +9,10 @@ It has been tried on a library of about 3000. Please note that takes quite some 
 
 Requirements
 ------------
-Windows version of Steam
-SteamGrid API key https://www.steamgriddb.com/profile/preferences
-Steam API Key https://steamcommunity.com/dev/apikey
-Your Steam id
+-Windows version of Steam
+-SteamGrid API key https://www.steamgriddb.com/profile/preferences
+-Steam API Key https://steamcommunity.com/dev/apikey
+-Your Steam id
 
 Usage
 -----
